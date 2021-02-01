@@ -15,7 +15,7 @@
 - ...
 
 ### Major Relevance
-- 🌱 Currently learning: iOS Development, Deep Learning and Data Base.
+- 🌱 Currently learning: iOS Development, Deep Learning and Data Base, Leetcode.
 - ⚡ Interests: APP Development, Product Manager, Front-end.
 - ⚡ Really want to write wonderful In-depth reports.
 - 🤔 Plan to study abroad in U.S. (2023Fall, Master)
