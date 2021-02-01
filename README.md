@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### About Me:
 - 🔭 热爱音乐，especially 欧美乐坛 && Classic
+- 🔭 头像是很喜欢的一位制作人：Jack Antonoff
 - 🔭 夜跑，网球，羽毛球，健身
 - 🔭 极度挑食患者，中度强迫症患者
 - 🔭 网上冲浪一级选手，资深社媒活跃分子
