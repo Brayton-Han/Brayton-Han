@@ -1,5 +1,5 @@
 ## Hi there 👋
-### About Me:
+### About Me
 1. 🔭 热爱音乐，especially 欧美 && Classic
 - 欧美乐坛：Sufjan Stevens, Taylor Swift, Lana Del Rey, Frank Ocean, Adele, Kacey Musgraves, Gavin James
 - 华语乐坛：艾怡良，袁娅维，魏如萱
