@@ -1,4 +1,11 @@
 ## Hi there 👋
+### Major Relevance
+- 🌱 Currently learning: iOS Development, Deep Learning and Data Base, Leetcode.
+- ⚡ Interests: APP Development, Product Manager, Front-end.
+- ⚡ Really want to write wonderful In-depth reports.
+- 🤔 Plan to study abroad in U.S. (2023Fall, Master)
+- ...
+
 ### About Me
 1. 🔭 热爱音乐，especially 欧美 && Classic
 - 欧美乐坛：Sufjan Stevens, Taylor Swift, Lana Del Rey, Frank Ocean, Adele, Kacey Musgraves, Gavin James
@@ -13,13 +20,6 @@
 7. 🔭 钢铁韭菜
 8. 🔭 法语爱好者
 9. ...
-
-### Major Relevance
-- 🌱 Currently learning: iOS Development, Deep Learning and Data Base, Leetcode.
-- ⚡ Interests: APP Development, Product Manager, Front-end.
-- ⚡ Really want to write wonderful In-depth reports.
-- 🤔 Plan to study abroad in U.S. (2023Fall, Master)
-- ...
 
 <!--
 Here are some ideas to get you started:
