@@ -11,7 +11,7 @@
 - 欧美乐坛：Sufjan Stevens, Taylor Swift, Lana Del Rey, Frank Ocean, Adele, Kacey Musgraves, Gavin James
 - 华语乐坛：艾怡良，袁娅维，魏如萱，王菲
 - 轻音乐：Ludovico Einaudi, 李欣芸, Secret Garden
-- 乐队：Vampire Weekend, FUN.
+- 乐队：Wolf Alice, Vampire Weekend, FUN.
 2. 🔭 头像是很喜欢的一位音乐制作人：Jack Antonoff
 3. 🔭 夜跑，网球，羽毛球，健身
 4. 🔭 极度挑食患者，中度强迫症患者
