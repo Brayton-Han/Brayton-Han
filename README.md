@@ -7,6 +7,8 @@
 - ...
 
 ### About Me 
+🔭 CS & Journalism er  
+
 🔭 欧美乐坛：Sufjan Stevens, Taylor Swift, Lana Del Rey, Lorde, Frank Ocean, Adele, Kacey Musgraves, Gavin James  
 🔭 华语乐坛：艾怡良，袁娅维，魏如萱，王菲  
 🔭 轻音乐：Ludovico Einaudi, 李欣芸, Secret Garden  
