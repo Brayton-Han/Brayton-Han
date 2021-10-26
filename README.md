@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### Major Relevance
-- 🌱 Currently work on: Data Base and Leetcode.
+- 🌱 Currently work on: Operating Systems, Distributed Systems and Leetcode.
 - ⚡ Interests: APP Development, Product Manager, Front-end.
-- ⚡ Really want to write wonderful In-depth reports.
+- ⚡ Really long to write wonderful In-depth reports.
 - 🤔 Plan to study abroad in U.S. (2023Fall, Master)
 - ...
 
@@ -18,9 +18,9 @@
 
 🔭 夜跑，网球，羽毛球，健身  
 
-🔭 极度挑食患者，中度强迫症患者  
+🔭 极度挑食患者，中度强迫症患者，人类观察家
 🔭 网上冲浪一级选手，资深社媒活跃分子  
-🔭 (a little)control freak， 喜欢make plans  
+🔭 (a little)control freak，喜欢make plans  
 🔭 钢铁韭菜，法语爱好者，ENFJ  
 ...
 
