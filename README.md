@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Major Relevance
-- 🌱 Currently work on: Compilers, Computer Security, Algorithms, AI, OOT and Leetcode.
+- 🌱 Currently working on: Compilers, Computer Security, Algorithms, AI, OOT and Leetcode.
 - ⚡ Interests: iOS Development, Product Manager, Back-end.
 - ⚡ Really long to write wonderful In-depth reports.
 - 🤔 Plan to study abroad (2023Fall, Master)
