@@ -1,13 +1,13 @@
 ## Hi there 👋
 ### Major Relevance
-- 🌱 Currently work on: Operating Systems, Distributed Systems and Leetcode.
-- ⚡ Interests: APP Development, Product Manager, Front-end.
+- 🌱 Currently work on: Compilers, Computer Security, Algorithms, AI, OOT and Leetcode.
+- ⚡ Interests: iOS Development, Product Manager, Back-end.
 - ⚡ Really long to write wonderful In-depth reports.
-- 🤔 Plan to study abroad in U.S. (2023Fall, Master)
+- 🤔 Plan to study abroad (2023Fall, Master)
 - ...
 
 ### About Me 
-🔭 CS & Journalism er  
+🔭 Computer Science & Journalism er  
 
 🔭 欧美乐坛：Sufjan Stevens, Taylor Swift, Lana Del Rey, Lorde, Frank Ocean, Adele, Kacey Musgraves, Gavin James  
 🔭 华语乐坛：艾怡良，袁娅维，魏如萱，王菲  
