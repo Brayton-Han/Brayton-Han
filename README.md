@@ -3,10 +3,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayton-Han)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Major Relevance
-- 🌱 Currently working on: Compilers, Computer Security, Algorithms, AI, OOT and Leetcode.
-- ⚡ Interests: iOS Development, Product Manager, Software Engineering.
+- 🌱 Currently working on: Leetcode, Machine Learning.
+- ⚡ Interests: Software Engineering, iOS Development, Product Manager.
 - ⚡ Really long to write wonderful In-depth reports.
-- 🤔 Plan to study abroad (2023Fall, Master)
 - ...
 
 ### About Me 
