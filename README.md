@@ -10,7 +10,7 @@
 ### About Me 
 🔭 Computer Science & Journalism er  
 
-🔭 欧美乐坛：Sufjan Stevens, Taylor Swift, Lana Del Rey, Lorde, Frank Ocean, Adele, Kacey Musgraves, Gavin James, Billie Eilish, Tinashe  
+🔭 欧美乐坛：Sufjan Stevens, Lana Del Rey, Lorde, Frank Ocean, Adele, Kacey Musgraves, Gavin James, Billie Eilish, Tinashe  
 🔭 华语乐坛：张悬，艾怡良，袁娅维，魏如萱，王菲  
 🔭 轻音乐：Ludovico Einaudi, 李欣芸, Secret Garden, Hans Zimmer  
 🔭 乐队：Wolf Alice, Vampire Weekend, Snail Mail, FUN.  
