@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayton-Han)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Major Relevance
 - ⚡ Interests: Software Engineering, Product Manager.
 - ⚡ Really long to write wonderful In-depth reports.
