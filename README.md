@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### Major Relevance
-- ⚡ Interests: Software Engineering, Product Manager.
-- ⚡ Really long to write wonderful In-depth reports.
+- ⚡ Interests: Full-stack Development, Distributed System, Database.
+- ⚡ Programming Languages: C/C++, Java, Python, TypeScript, SQL
 - ...
 
 ### About Me 
