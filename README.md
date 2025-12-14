@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Major Relevance
-- ⚡ Interests: Full-stack Development, Distributed System, Database.
+- ⚡ Interests: Full-stack Development, Distributed System, Middleware
 - ⚡ Programming Languages: C/C++, Java, Python, TypeScript, HTML/CSS, SQL
 - ⚡ Web Technologies: Spring Boot, Next.js, React, RESTful API, WebSocket, RabbitMQ, Django, Flask
 - ⚡ Tools & Frameworks: Git, Hadoop, VS Code, IntelliJ, VMware, Buildroot, Docker, Wireshark, Maven, Cloudflare
@@ -16,8 +16,8 @@
 🔭 极度挑食患者，中度强迫症患者，人类观察家  
 🔭 网上冲浪一级选手，资深社媒活跃分子  
 🔭 背包客，喜欢用脚步丈量城市，穿梭于大街小巷  
-🔭 (a little)control freak，喜欢make plans  
-🔭 法语爱好者，ENFJ  
+🔭 (a little)control freak，喜欢 make plans  
+🔭 法语爱好者，INFJ/ENFJ  
 ...
 
 <!--
