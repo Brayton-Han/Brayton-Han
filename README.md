@@ -2,9 +2,9 @@
 
 ### Major Relevance
 - ⚡ Interests: Full-stack Development, Distributed System, Middleware
-- ⚡ Programming Languages: C/C++, Java, Python, TypeScript, HTML/CSS, SQL
-- ⚡ Web Technologies: Spring Boot, Next.js, React, RESTful API, WebSocket, RabbitMQ, Django, Flask
-- ⚡ Tools & Frameworks: Git, Hadoop, VS Code, IntelliJ, VMware, Buildroot, Docker, Wireshark, Maven, Cloudflare
+- ⚡ Languages: C/C++, Java, Python, SQL, JavaScript, TypeScript, HTML/CSS
+- ⚡ Web Technologies: Spring Boot, Next.js, React, RESTful API, WebSocket, Django, Flask
+- ⚡ Tools & Frameworks: Git, CI/CD, Hadoop, VS Code, IntelliJ, VMware, Build root, Docker, Wireshark, Cloudflare, Vim
 - ...
 
 ### About Me 
